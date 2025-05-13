@@ -3,7 +3,7 @@
 SoftSell is a responsive, single-page marketing website for a fictional software resale startup. This project demonstrates the ability to quickly ship a usable product with clean code, relevant content, and good design instincts.
 
 ## 🚀 Live Demo
-[View Live Demo](https://softsell-marketplace.vercel.app)
+[View Live Demo](https://softsell-website-v7wt.vercel.app/)
 
 ## ✨ Features Implemented
 
@@ -42,7 +42,7 @@ SoftSell is a responsive, single-page marketing website for a fictional software
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sapphire2207/softsell.git
+   git clone https://github.com/sapphire2207/softsell-website.git
    cd softsell
    ```
 
@@ -60,7 +60,7 @@ SoftSell is a responsive, single-page marketing website for a fictional software
    yarn dev
    ```
 
-4. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+4. Open [http://localhost:5173](http://localhost:5173) with your browser to see the result.
 
 ## 🚀 Deployment
 
