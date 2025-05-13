@@ -36,7 +36,7 @@ SoftSell is a responsive, single-page marketing website for a fictional software
 - **Styling:** Tailwind CSS
 - **Animations:** Framer Motion
 - **State Management:** React Hooks (useState, useEffect, useRef)
-- **Deployment:** Using Render
+- **Deployment:** Using Vercel
 
 ## 🔧 Setup and Installation
 
